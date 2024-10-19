@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Build output
+/dist/
+out/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows

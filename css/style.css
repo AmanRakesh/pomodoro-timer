@@ -1,0 +1,38 @@
+/* Add background color for the entire body */
+body {
+    background-color: #f5f5f5; /* Light grey or any color of your choice */
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+  }
+  
+  /* Center the timer display and adjust margins */
+  #timer {
+    font-size: 64px;
+    color: #2e7d32; /* Nice green color */
+    margin: 50px 0;
+  }
+  
+  /* Profile information styling */
+  #profile-info {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Session display styling */
+  #session-info {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #5e35b1; /* Purple for session tracking */
+  }
+  
+  /* Buttons styling */
+  button {
+    margin: 10px;
+  }
+  
+  /* Tooltip styling */
+    .tooltipped {
+    position: relative;
+  }
